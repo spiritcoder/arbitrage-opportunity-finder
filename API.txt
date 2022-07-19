@@ -1,0 +1,16 @@
+https://api.huobi.pro/market/detail?symbol=ethusdt
+https://api.binance.com/api/v3/avgPrice?symbol=ETHUSDT
+https://api.kraken.com/0/public/Ticker?pair=ETHUSDT
+https://poloniex.com/public?command=returnOrderBook&currencyPair=USDT_ETH&depth=1
+https://api.bittrex.com/v3/markets/ETH-USDT/ticker
+https://api.mexc.com/api/v3/ticker/bookTicker?symbol=ETHUSDT
+https://api.xt.com/data/api/v1/getDepth?market=eth_usdt
+https://data.gateio.life/api2/1/ticker/ETH_USDT
+https://api.kucoin.com/api/v1/market/orderbook/level1?symbol=BTC-USDT
+https://api.bybit.com/public/linear/recent-trading-records?symbol=BTCUSDT&limit=1
+https://api.aax.com/v2/market/markPrice?symbol=BTCUSDTFP
+https://ascendex.com/api/pro/v1/spot/ticker?symbol=ETH/USDT
+https://www.okcoin.com/api/spot/v3/instruments/BTC-USDT/ticker
+https://data.azbit.com/api/tickers?currencyPairCode=BTC_USDT
+https://api.bkex.cc/v2/q/tickers?symbol=BTC_USDT
+https://api.hitbtc.com/api/3/public/ticker/ETHUSDT
